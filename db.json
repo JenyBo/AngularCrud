@@ -1,0 +1,68 @@
+{
+  "phoneList": [
+    {
+      "phoneName": "Vinsmart Joy 3",
+      "phoneOperatingsystem": "Android",
+      "date": "2022-08-02T17:00:00.000Z",
+      "status": "Old",
+      "price": "1000",
+      "Comment": "cheap , nice configuration",
+      "id": 2
+    },
+    {
+      "phoneName": "Iphone 13 pro max",
+      "phoneOperatingsystem": "IOS",
+      "date": "2022-08-09T17:00:00.000Z",
+      "status": "New",
+      "price": "5000",
+      "Comment": "Expensive , camera and apperance beautyfull",
+      "id": 3
+    },
+    {
+      "phoneName": "Nokia 5230",
+      "phoneOperatingsystem": "Symbian",
+      "date": "2022-07-31T17:00:00.000Z",
+      "status": "Old",
+      "price": "10",
+      "Comment": "immortal",
+      "id": 4
+    },
+    {
+      "phoneName": "Lumia 1520",
+      "phoneOperatingsystem": "Windows Phone",
+      "date": "2022-08-17T17:00:00.000Z",
+      "status": "New",
+      "price": "1200",
+      "Comment": "From Microsoft",
+      "id": 5
+    },
+    {
+      "phoneName": "BlackBerry Key 2",
+      "phoneOperatingsystem": "BlackBerry OS",
+      "date": "2022-08-11T17:00:00.000Z",
+      "status": "New",
+      "price": "500",
+      "Comment": "Cheap , strong battery",
+      "id": 6
+    },
+    {
+      "phoneName": "Oppo  reno 6",
+      "phoneOperatingsystem": "Android",
+      "date": "2022-08-09T17:00:00.000Z",
+      "status": "New",
+      "price": "4000",
+      "Comment": "Impressive camera, trendy design and technology accessories",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
